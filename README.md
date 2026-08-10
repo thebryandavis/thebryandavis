@@ -6,7 +6,7 @@ I use GitHub to keep track of products I'm building, ideas I'm testing, and the 
 
 ## Currently building
 
-- [Plumb](https://github.com/thebryandavis/plumb): a working product experiment for understanding how AI agents crawl, cite, and reuse publisher work.
+- [Plumb](https://bryandavis.media/projects/plumb): a working product experiment for understanding how AI agents crawl, cite, and reuse publisher work.
 - [Analytics Intelligence](https://github.com/thebryandavis/analytics-intelligence-workshop): an AI-assisted system for catching analytics failures and surfacing growth opportunities.
 - [Current projects](https://bryandavis.media/lab): what I'm building, what I learned, and what I'm testing next.
 
