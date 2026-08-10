@@ -6,7 +6,7 @@ I use GitHub as a working laboratory: product theses, prototypes, measurement sy
 
 ## Currently building
 
-- [Plumb](https://bryandavis.media/projects/plumb): a working product experiment for understanding how AI agents crawl, cite, and reuse publisher work.
+- [Plumb](https://github.com/thebryandavis/plumb): a working product experiment for understanding how AI agents crawl, cite, and reuse publisher work.
 - [Analytics Intelligence](https://github.com/thebryandavis/analytics-intelligence-workshop): an AI-assisted system for catching analytics failures and surfacing growth opportunities.
 - [AI product builder lab](https://bryandavis.media/lab): current experiments, what I learned, and what I am testing next.
 
