@@ -7,12 +7,12 @@ I use GitHub to keep track of products I'm building, ideas I'm testing, and the 
 ## Currently building
 
 - [Plumb](https://bryandavis.media/projects/plumb): a working product experiment for understanding how AI agents crawl, cite, and reuse publisher work.
-- [Analytics Intelligence](https://github.com/thebryandavis/analytics-intelligence-workshop): an AI-assisted system for catching analytics failures and surfacing growth opportunities.
+- [Analytics Intelligence](https://github.com/thebryandavis/analytics-intelligence-workshop): a system for catching analytics failures and unusual growth patterns.
 - [Current projects](https://bryandavis.media/lab): what I'm building, what I learned, and what I'm testing next.
 
 ## Selected work
 
-- [Why Support This Story](https://github.com/thebryandavis/ap-why-support-this-story): AI-assisted contextual donation messaging with reader-facing guardrails.
+- [Why Support This Story](https://github.com/thebryandavis/ap-why-support-this-story): a prototype for drafting donation messages from article context, with editorial review before publication.
 - [The Atlantic digital transformation](https://bryandavis.media/projects/atlantic-digital-transformation): subscription growth, experimentation, and retention infrastructure at scale.
 - [NBC News digital growth](https://bryandavis.media/projects/nbc-news-digital-growth): SEO, first-party data, audience development, and revenue strategy across a portfolio of properties.
 - [NYT audience growth](https://bryandavis.media/projects/nytimes-audience-growth): propensity modeling, registration, cross-product promotion, and subscription growth.
