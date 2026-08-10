@@ -8,6 +8,7 @@ I use GitHub to keep track of products I'm building, ideas I'm testing, and the 
 
 - [Plumb](https://bryandavis.media/projects/plumb): a working product experiment for understanding how AI agents crawl, cite, and reuse publisher work.
 - [Analytics Intelligence](https://github.com/thebryandavis/analytics-intelligence-workshop): a system for catching analytics failures and unusual growth patterns.
+- [Product Decision Room](https://github.com/thebryandavis/product-decision-room): a small workspace for separating evidence, assumptions, and choices before a decision review.
 - [Current projects](https://bryandavis.media/lab): what I'm building, what I learned, and what I'm testing next.
 
 ## Selected work
