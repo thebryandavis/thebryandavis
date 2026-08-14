@@ -4,6 +4,8 @@ Product leader building products, growth systems, and teams.
 
 I use GitHub to keep track of products I'm building, ideas I'm testing, and the decisions behind them. Some of the newer projects use AI. The common thread is simpler: start with a real problem, build something useful, and see what happens.
 
+Most of my earlier work came from media and news. The problems I keep returning to are broader: growth, customer data, experimentation, monetization, and helping teams learn by making.
+
 ## Currently building
 
 - [Plumb](https://plumbtrace.com/demo/agent-traffic): a live product for seeing how AI systems access, cite, and reuse publisher work.
@@ -13,14 +15,16 @@ I use GitHub to keep track of products I'm building, ideas I'm testing, and the 
 
 ## Selected work
 
-- [Why Support This Story](https://github.com/thebryandavis/ap-why-support-this-story): a prototype for drafting donation messages from article context, with editorial review before publication.
+- [Growth Experiment OS](https://github.com/thebryandavis/news-growth-experiment-os): a prioritization model for comparing experiments without hiding assumptions, metrics, or risk.
+- [AI Signal Radar](https://github.com/thebryandavis/newsroom-ai-signal-radar): a source-grounded workflow for sorting signals, showing confidence, and keeping human judgment in the loop.
+- [Why Support This Story](https://github.com/thebryandavis/ap-why-support-this-story): a context-aware conversion messaging prototype with review before anything reaches a reader.
 - [The Atlantic digital transformation](https://bryandavis.media/projects/atlantic-digital-transformation): subscription growth, experimentation, and retention infrastructure at scale.
 - [NBC News digital growth](https://bryandavis.media/projects/nbc-news-digital-growth): SEO, first-party data, audience development, and revenue strategy across a portfolio of properties.
 - [NYT audience growth](https://bryandavis.media/projects/nytimes-audience-growth): propensity modeling, registration, cross-product promotion, and subscription growth.
 
 ## Product themes
 
-Product strategy · experimentation · analytics · growth · consumer products · subscriptions · team leadership
+Product strategy · growth · customer data · experimentation · consumer products · monetization · team leadership
 
 ## More
 
