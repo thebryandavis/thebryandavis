@@ -2,9 +2,9 @@
 
 Product leader building products, growth systems, and teams.
 
-I use GitHub to keep track of products I'm building, ideas I'm testing, and the decisions behind them. Some of the newer projects use AI. The common thread is simpler: start with a real problem, build something useful, and see what happens.
+Here are products I'm building, ideas I'm testing, and the decisions behind them. Some of the newer projects use AI.
 
-Most of my earlier work came from media and news. The problems I keep returning to are broader: growth, customer data, experimentation, monetization, and helping teams learn by making.
+Much of my earlier work came from media and news. The problems I keep returning to are broader: growth, customer data, experimentation, monetization, and helping teams learn by making.
 
 ## Currently building
 
