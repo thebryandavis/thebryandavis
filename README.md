@@ -4,6 +4,10 @@ Product leader building products, data systems, and teams.
 
 I lead work across growth, customer data, experimentation, consumer products, and monetization. I also build working tools to explore how AI can help people make better decisions while keeping evidence, uncertainty, and human judgment visible.
 
+## Current role
+
+I currently lead a product data and growth team at The Associated Press, working across registration, reader revenue, conversion, lifecycle engagement, and customer insight.
+
 ## Current work
 
 - [Plumb](https://plumbtrace.com/demo/agent-traffic): a live product for seeing how AI systems access, cite, and reuse publisher work.
@@ -21,7 +25,7 @@ I lead work across growth, customer data, experimentation, consumer products, an
 
 ## Earlier product work
 
-My career includes subscription, audience, and consumer-revenue work at The Atlantic, The New York Times, NBC News Digital, and The Associated Press. That experience is the operating foundation behind the tools above.
+Earlier in my career, I built subscription, audience, and consumer-revenue products at The Atlantic, The New York Times, and NBC News Digital. That experience is the operating foundation behind the tools above.
 
 - [The Atlantic subscription work](https://bryandavis.media/projects/atlantic-digital-transformation)
 - [NBC News digital growth](https://bryandavis.media/projects/nbc-news-digital-growth)
