@@ -7,9 +7,9 @@ I lead work across growth, customer data, experimentation, consumer products, an
 ## Current work
 
 - [Plumb](https://plumbtrace.com/demo/agent-traffic): a live product for seeing how AI systems access, cite, and reuse publisher work.
-- [Human Review Lab](https://github.com/thebryandavis/human-review-lab): a review desk for checking AI outputs against source material before they reach a customer or teammate.
-- [Data Contract Studio](https://github.com/thebryandavis/data-contract-studio): a shared workspace for agreeing on event meaning, ownership, privacy, and validation before implementation.
-- [Customer Signal Loop](https://github.com/thebryandavis/customer-signal-loop): a feedback desk that keeps the original note, its context, and the product decision together.
+- [Human Review Lab](https://github.com/thebryandavis/human-review-lab) ([live tool](https://human-review-lab-production.up.railway.app/)): a review desk for checking AI outputs against source material before they reach a customer or teammate.
+- [Data Contract Studio](https://github.com/thebryandavis/data-contract-studio) ([live tool](https://data-contract-studio-production.up.railway.app/)): a shared workspace for agreeing on event meaning, ownership, privacy, and validation before implementation.
+- [Customer Signal Loop](https://github.com/thebryandavis/customer-signal-loop) ([live tool](https://customer-signal-loop-production.up.railway.app/)): a feedback desk that keeps the original note, its context, and the product decision together.
 - [Current projects](https://bryandavis.media/lab): working tools, product questions, and what I am learning next.
 
 ## Selected work
