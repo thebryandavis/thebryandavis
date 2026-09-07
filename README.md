@@ -11,6 +11,8 @@ I currently lead a product data and growth team at The Associated Press, working
 ## Current work
 
 - [Plumb](https://plumbtrace.com/demo/agent-traffic): a live product for seeing how AI systems access, cite, and reuse publisher work.
+- [Next Best Ask](https://github.com/thebryandavis/next-best-ask) ([live tool](https://next-best-ask-production.up.railway.app/)): a policy service that picks one ask per reader, per visit, for a reader-supported newsroom, and shows the reason. Pick a reader and see what they would get.
+- [Growth Room](https://github.com/thebryandavis/growth-room-lab) ([live tool](https://growth-room-lab-production.up.railway.app/?run=preview)): four models review a reader revenue question, two try to break the answer, and a person decides.
 - [Human Review Lab](https://github.com/thebryandavis/human-review-lab) ([live tool](https://human-review-lab-production.up.railway.app/)): a review desk for checking AI outputs against source material before they reach a customer or teammate.
 - [Data Contract Studio](https://github.com/thebryandavis/data-contract-studio) ([live tool](https://data-contract-studio-production.up.railway.app/)): a shared workspace for agreeing on event meaning, ownership, privacy, and validation before implementation.
 - [Customer Signal Loop](https://github.com/thebryandavis/customer-signal-loop) ([live tool](https://customer-signal-loop-production.up.railway.app/)): a feedback desk that keeps the original note, its context, and the product decision together.
